@@ -1,1 +1,1 @@
-{"status": [{"release": 0.9}, {"datetime": "2020-07-20 00:00:00"}, {"status": true}]}
+{"release": 0.9, "datetime": "2020-08-14 14:32:11", "status": false, "message": "[Errno 21] Is a directory: '.'"}
