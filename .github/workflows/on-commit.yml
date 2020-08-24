@@ -41,7 +41,7 @@ jobs:
           TRIGGERS: src/test/test_builder.py
 
       - name: Building
-        run: python3 app.py
+        run: python3 systembuilde/app.py
 
       - name: Commit status
         run: |
